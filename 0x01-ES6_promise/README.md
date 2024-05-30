@@ -1,2 +1,2 @@
 # Promise
-All fufill your promise no matter what
+Always fufill your promise no matter what
