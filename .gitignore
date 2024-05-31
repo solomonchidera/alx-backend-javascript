@@ -46,7 +46,9 @@ jspm_packages/
 package-lock.json
 package.json
 .txt.§files
-
+.DS_Store
+.eslintrc.js
+babel.config.js
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
