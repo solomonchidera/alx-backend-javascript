@@ -1,6 +1,6 @@
 #!/usr/bin/node
-function displayMessage(message) {
-  return (message);
+function displayMessage(string) {
+  return (string);
 }
 
 module.exports = displayMessage;
