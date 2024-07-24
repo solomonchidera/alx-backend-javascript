@@ -1,3 +1,4 @@
 #!/usr/bin/node
-function displayMessage(message)
+function displayMessage(message) {
 	return("%s", message)
+}
