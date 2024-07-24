@@ -1,3 +1,3 @@
 #!/usr/bin/node
-function displayMessage()
-	console.log("Hello NodeJS!")
+function displayMessage(message)
+	return("%s", message)
